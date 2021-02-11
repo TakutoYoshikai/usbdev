@@ -6,4 +6,5 @@ usbDetect.on("add", (device) => {
   process.exit(0);
 });
 
+console.log("Insert your USB device");
 usbDetect.startMonitoring();
