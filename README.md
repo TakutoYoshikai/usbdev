@@ -1,5 +1,5 @@
 # usbdev
-The USB Device information checker.
+The USB device information checker.
 
 ### Usage
 **install**
