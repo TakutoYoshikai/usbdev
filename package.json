@@ -1,0 +1,27 @@
+{
+  "name": "usbdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "bin": {
+    "usbdev": "./bin/usbdev"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TakutoYoshikai/usbdev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TakutoYoshikai/usbdev/issues"
+  },
+  "homepage": "https://github.com/TakutoYoshikai/usbdev#readme",
+  "dependencies": {
+    "usb-detection": "^4.10.0"
+  }
+}
